@@ -39,7 +39,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Badhacker98/SUKH_-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://Badhacker98/SUKH_-)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
