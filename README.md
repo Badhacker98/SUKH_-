@@ -24,8 +24,6 @@
 
 # Deploy
 - [Heroku](#deploy-to-heroku)
-- [Okteto](#deploy-to-okteto)
-- [Local Machine](#deploy-locally)
 
 # Documentation 
 [![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
@@ -39,7 +37,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.Badhacker98/SUKH_-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.Badhacker98)
 
 
 ---
