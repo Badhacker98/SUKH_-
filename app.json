@@ -10,8 +10,8 @@
         "ultroid"
     ],
     "repository": "https://github.com/Badhacker98/SUKH_-",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TeamUltroid",
+    "website": "https://Badhacker98/SUKH_-",
+    "success_url": "https://github.com/Badhacker98/SUKH_-",
     "stack": "container",
     "env": {
         "API_ID": {
